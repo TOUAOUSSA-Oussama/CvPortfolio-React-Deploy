@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/CvPortfolio-React-Deploy/static/js/main.5ad32d87.js",
+    "static/media/formation-4.svg": "/CvPortfolio-React-Deploy/static/media/formation-4.3942505289217076f83445273b1f5f89.svg",
+    "static/media/experience-5.svg": "/CvPortfolio-React-Deploy/static/media/experience-5.0e2058107aef083915bd8cbf77b9b0a0.svg",
+    "static/media/formation-3.svg": "/CvPortfolio-React-Deploy/static/media/formation-3.421ab047288a5af39a0996752a8b0b1d.svg",
+    "static/media/logo-2.png": "/CvPortfolio-React-Deploy/static/media/logo-2.efbb7e4291fdfb799ba6.png",
+    "static/media/formation-2.svg": "/CvPortfolio-React-Deploy/static/media/formation-2.57279cc869e27b369edaf589e1c4fd20.svg",
+    "static/media/experience-1.svg": "/CvPortfolio-React-Deploy/static/media/experience-1.e84486fda43eb6f592bdf7a8df1631fd.svg",
+    "static/media/Acceuil-2.svg": "/CvPortfolio-React-Deploy/static/media/Acceuil-2.6a377e52740408f6dca3cdd02e07789d.svg",
+    "static/media/experience-4.svg": "/CvPortfolio-React-Deploy/static/media/experience-4.0253dce6bae5fd1c9bdd038b5ba75286.svg",
+    "static/media/experience-3.svg": "/CvPortfolio-React-Deploy/static/media/experience-3.eaadf7d1e754b56482f5c7c230b0b861.svg",
+    "static/media/competence-1.svg": "/CvPortfolio-React-Deploy/static/media/competence-1.dbf022ed0238d7ca3b41d6ccc6acd5c6.svg",
+    "static/media/contact.svg": "/CvPortfolio-React-Deploy/static/media/contact.33b231f2210e274869231e103015a44e.svg",
+    "static/media/Acceuil-1.svg": "/CvPortfolio-React-Deploy/static/media/Acceuil-1.e1857d2c153a96ed3151ad665d049537.svg",
+    "static/media/formation-1.svg": "/CvPortfolio-React-Deploy/static/media/formation-1.ce1dd05a84a91a52eb8cffaf6b3b82e6.svg",
+    "static/media/competence-2.svg": "/CvPortfolio-React-Deploy/static/media/competence-2.8ac1ef0f4755742f4d3566f50bbb3035.svg",
+    "static/media/experience-2.svg": "/CvPortfolio-React-Deploy/static/media/experience-2.b7f52ccade73d080815043757a7c13d4.svg",
+    "index.html": "/CvPortfolio-React-Deploy/index.html",
+    "main.5ad32d87.js.map": "/CvPortfolio-React-Deploy/static/js/main.5ad32d87.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5ad32d87.js"
+  ]
+}
